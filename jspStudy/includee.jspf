@@ -1,0 +1,6 @@
+<%@ page contentType="text/html; charset=UTF-8"%>
+jspinclude37.jsp에서 지정한 번호: <%=number%>
+<hr/>
+<%
+String dataFolder="C:\\data";
+%>
